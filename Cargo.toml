@@ -1,0 +1,9 @@
+[package]
+name = "blockchain"
+version = "0.1.0"
+authors = ["Devdutt Shenoi <devdutt@outlook.in>"]
+edition = "2018"
+
+[dependencies]
+bytes = "1.0"
+sha2 = "0.9"
