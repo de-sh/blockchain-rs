@@ -7,3 +7,4 @@ edition = "2018"
 [dependencies]
 bytes = "1.0"
 sha2 = "0.9"
+hex = "0.4"
